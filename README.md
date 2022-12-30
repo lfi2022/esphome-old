@@ -2,6 +2,8 @@
 
 [![ESPHome Logo](https://esphome.io/_images/logo-text.png)](https://esphome.io/)
 
+This is the Home Assistant (former Hass.io) addon repository for ESPHome. For the ESPHome source please go to [esphome](https://github.com/esphome/esphome).
+
 **Documentation:** https://esphome.io/
 
 For issues, please go to [the issue tracker](https://github.com/esphome/issues/issues).
