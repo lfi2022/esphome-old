@@ -1,5 +1,5 @@
 {
-  "name": "ESPHome",
-  "url": "https://esphome.io",
-  "maintainer": "ESPHome <esphome@nabucasa.com>"
+  "name": "Old 22.11.4 esp-home",
+  "url": "https://github.com/lfi2022/esphome-old",
+  "maintainer": "LFI2022>"
 }
